@@ -1,0 +1,22 @@
+pandas
+numpy
+tqdm
+tensorflow
+tensorflow-probability
+# pyg-lib (Check PyPI or source for equivalent)
+# pygod (Check PyPI or source for equivalent)
+torch
+torchvision
+torchaudio
+jupyterlab
+yfinance
+matplotlib
+openpyxl
+ipywidgets
+hmmlearn
+cvxopt
+dropbox
+networkx
+seaborn
+# torch-geometric (Check PyPI or source for installation)
+# torch-geometric-temporal (Check PyPI or source for installation)
