@@ -1,1 +1,1 @@
-# gvae-sampling
+# Graph VAE Sampling
